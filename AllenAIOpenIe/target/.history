@@ -1,0 +1,2 @@
+sbt 'run-main edu.knowitall.openie.OpenIECli'
+sbt: 'run-main edu.knowitall.openie.OpenIECli'
